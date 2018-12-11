@@ -1,4 +1,4 @@
-#lang planet lwhjp/logo
+#lang logo
 
 to sierpinski :size
   to inner :size

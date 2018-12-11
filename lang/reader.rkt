@@ -1,5 +1,5 @@
 #lang s-exp syntax/module-reader
-(planet lwhjp/logo/language)
+logo/language
 #:read read-logo
 #:read-syntax read-logo-syntax
 
